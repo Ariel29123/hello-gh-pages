@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
  int main(int argc, char const *argv[]) {
-   int n = atoi([argv1]);
+   int n = atoi(argv[1]);
    int a = 0;
    int b = 1;
    printf("%d\n%d\n", a, b);
