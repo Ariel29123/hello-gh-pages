@@ -1,5 +1,6 @@
 #include <stlib.h>
 #include <stdio.h>
+#include <limits.h>
 
 int  main(argc, char *argv[]) {
   int max = INT_MIN;
